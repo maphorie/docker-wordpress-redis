@@ -1,4 +1,4 @@
-FROM wordpress:6.4.3
+FROM wordpress:6.5.0
 
 RUN pecl install redis \
     && docker-php-ext-enable redis

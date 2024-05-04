@@ -1,1 +1,1 @@
-# docker-wordpress
+# docker-wordpress-redis
